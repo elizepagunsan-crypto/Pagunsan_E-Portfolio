@@ -4,7 +4,7 @@
 
 <body>
 <div class="navbar">
-<p class="navbar-title"> <a href="Final 1.html">  My 2nd Quarter E-Portfolio &#9829; </a> </p>
+<p class="navbar-title"> <a href="index.html">  My 2nd Quarter E-Portfolio &#9829; </a> </p>
 <div class="menu-container">
 <div class="dropdown">
 <button class="dropbtn"> My Personal Space </button>
