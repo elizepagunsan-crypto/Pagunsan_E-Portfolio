@@ -81,7 +81,7 @@ We met in Grade 8 and became close friends that later year. I realized she was o
 </div>
 
 <div class="image-text1">
-<img src="54.png" alt="Keishaa <33" class="side-photo">
+<img src="l.png" alt="Keishaa <33" class="side-photo">
 <div class="text-box1">
 <p>
 Friends since Grade 7, I'm so lucky to have a kind, caring, smart, and ever so pretty vice president as one of my closest friends. She's always there for me, for my rants, questions, or just when I need someone to listen to. And I'm here for her whenever her responsibilities get too many, or she has feelings she needs to let out. 
@@ -90,7 +90,7 @@ Friends since Grade 7, I'm so lucky to have a kind, caring, smart, and ever so p
 </div>
 
 <div class="image-text">
-<img src="55.png" alt="Vivv ^^" class="side-photo">
+<img src="y.png" alt="Vivv ^^" class="side-photo">
 <div class="text-box">
 <p>
 Viv, a friend since Grade 2. We just got separated when you moved to America. But got closer when you came back at Grade 4, and honestly the rest is history. I thank her for being there whenever I have problems in schools, so I'm always there for her in terms of life problems. 
@@ -117,7 +117,7 @@ One of the kindest and prettiest girls I've ever met, I actually really wanted t
 </div>
 
 <div class="image-text1">
-<img src="57.png" alt="My Friends" class="side-photo">
+<img src="u.png" alt="My Friends" class="side-photo">
 <div class="text-box1">
 <p>
 At the end, I learned the importance of true and genuine friends. And I'm grateful for each and every single one of them. Because without them, I probably would be so lost in life, so I'm glad to have them to guide me. Memorable experiences include Zoe's birthday, not a lot of people, but that made it even more enjoyable. I got to by myself without anyone judging, because they too were themselves! Another is whenever my friends from Accountability go to malls or a house of someone, because we usually play truth or dare, and then it gets emotional because everyone says some of their deepest thoughts. And last and most recently, nutrichant. For the start of the school year, that was a great eye-opener. Even with the non-stop practice and assignments, it was such an unforgettable experience. Everyone trying their best, everyone stressing out, and everyone crying when we got called champions.
@@ -126,7 +126,7 @@ At the end, I learned the importance of true and genuine friends. And I'm gratef
 </div>
 
 <div class="image-text">
-<video src="vid1.mp4" controls loop width="500" class="side-photo"> </video>
+<video src="hu.mp4" controls loop width="500" class="side-photo"> </video>
 <div class="text-box">
 <p>
 Bonus!! Video of Nutrichant performance ^^ A great display of friendship and collaboration.
