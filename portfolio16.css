@@ -1,0 +1,108 @@
+body {
+background-image: url("Background 6.png");
+background-repeat:no-repeat;
+background-size:cover;
+background-attachment:fixed;
+background-position:center;
+margin: 0;
+padding: 0;
+padding-top:100px;
+}
+
+.navbar {
+background-color:#FFC0CB;
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:15px 20px;
+box-shadow: 0px 2px 5px rgba (0,0,0,0.3);
+border: 2px solid white;
+position:fixed;
+top:0;
+width:100%;
+z-index:1000;
+}
+
+.navbar-title a {
+color:#FF1493;
+font-size:25px;
+font-family:Garamond;
+margin:0;
+
+}
+
+.dropbtn {
+background-color:#FFC0CB; 
+color:#C71585; 
+padding:16px; 
+font-size:20px; 
+border:none;
+font-family:Trebuchet MS;
+cursor:pointer;
+}
+
+.dropdown{
+display:inline-block; 
+position:relative;
+margin-right:10px;
+}
+
+.dropdown-content {
+display:none; 
+position:absolute;
+top:100%;
+left:0;
+background-color:#FFE4E1; 
+width: 160px;
+color:#9C93B5;
+z-index:10;
+}
+
+.dropdown-content a {
+background-color:#FFE4E1;
+color:#C71585;
+text-decoration:none;
+display:block; 
+font-size:20px;
+font-family:Trebuchet MS; 
+padding:10px;
+}
+
+.dropdown-content a:hover {background-color:#FFF0F5;color:#FF69B4;}
+.dropdown:hover .dropdown-content {display:block;}
+.dropdown:hover .dropbtn {background-color:#FFF0F5;}
+
+
+h2 {
+background-color:#FFE4E1; 
+color:#FF69B4; 
+text-align:center;
+font-family:Garamond;
+font-size:30px;
+border: 3px solid white;
+margin:0;
+padding:0;
+}
+
+h6 {
+background-color:#FFE4E1; 
+color:#FF69B4; 
+text-align:center;
+font-family:Trebuchet MS;
+font-size:30px;
+border: 3px double white;
+margin:0;
+padding:0;
+font-size:20px;
+}
+
+.one
+{
+background-color:#FFE4E1; 
+color:#FF69B4;
+text-align:center;
+font-family:Garamond;
+font-size:30px;
+border: 3px solid white;
+opacity:0.8;
+}
