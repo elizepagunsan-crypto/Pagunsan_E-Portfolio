@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head> <title> PAGUNSAN_2ND QUARTER </title> <link rel="stylesheet" href="portfolio3.css" type="text/css"> </head>
+<body>
+<div class="navbar">
+<p class="navbar-title"> <a href="Final 1.html">  My 2nd Quarter E-Portfolio &#9829; </a> </p>
+<div class="menu-container">
+<div class="dropdown">
+<button class="dropbtn"> My Personal Space </button>
+<div class="dropdown-content">
+<a href="Final 2.html"> Myself </a>
+<a href="Final 3.html"> My Friends </a>
+<a href="Final 4.html"> My Family </a>
+</div>
+</div>
+
+<div class="dropdown">
+<button class="dropbtn"> Browser Outputs </button>
+<div class="dropdown-content">
+<a href="Final 7.html"> Events </a>
+<a href="Final 9.html"> Lesson Outputs </a>
+</div>
+</div>
+
+<div class="dropdown">
+<button class="dropbtn"> AP MIKROEKONOMIKS </button>
+<div class="dropdown-content">
+<a href="Final 8.html"> Demand </a>
+<a href="Final 10.html"> Supply </a>
+<a href="Final 11.html"> Elasticity </a>
+<a href="Final 13.html"> Equilibrium </a>
+<a href="Final 16.html"> Pamilihan </a>
+<a href="Final 6.html"> Price Control </a>
+</div>
+</div>
+</div>
+</div>
+
+<h1> &#9958; WELCOME TO MY E-PORTFOLIO! &#9958; </h1>
+<br> <br> <br>
+<h2> &#9958; LORRAINE GILIA A. PAGUNSAN                       9-FAIRNESS &#9958; </h2>
+
+
+
+<div class="content-section">
+<img src="hi.png" alt="My Favorite Photo" class="photo1">
+
+<div class="text2">
+<p>
+ A blessed day to all ^^ Welcome to my homepage, hope you enjoy reading! I am Lorraine Gilia A. Pagunsan of 9-Fairness. 
+At the top of this webpage, there is the navigation bar to make access easier across my portfolio.  To get to know me more, click on "Myself" under my personal space. To know my friends, click "My Friends", and "My Family" for memorable experiences with my family. Under "Browser Outputs", there are my thoughts about every event in "Events", and application of what I leanred in "Lesson outputs". Then finally, my AP interactive with all the lessons in "AP MIKROEKONOMIKS". If you wish to go back here, click "My 2nd Quarter E-Portfolio". Thank you once again, and enjoy! 
+</p>
+</div>
+</div>
+
+
+</body>
+</html>

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head><title> EQUILIBRIUM </title> <link rel="stylesheet" href="portfolio15.css" type="text/css"></head>
+<body>
+<div class="navbar">
+<p class="navbar-title"> <a href="Final 1.html">  My 2nd Quarter E-Portfolio &#9829; </a> </p>
+<div class="menu-container">
+<div class="dropdown">
+<button class="dropbtn"> My Personal Space </button>
+<div class="dropdown-content">
+<a href="Final 2.html"> Myself </a>
+<a href="Final 3.html"> My Friends </a>
+<a href="Final 4.html"> My Family </a>
+</div>
+</div>
+
+<div class="dropdown">
+<button class="dropbtn"> Browser Outputs </button>
+<div class="dropdown-content">
+<a href="Final 7.html"> Events </a>
+<a href="Final 9.html"> Lesson Outputs </a>
+</div>
+</div>
+
+<div class="dropdown">
+<button class="dropbtn"> AP MIKROEKONOMIKS </button>
+<div class="dropdown-content">
+<a href="Final 8.html"> Demand </a>
+<a href="Final 10.html"> Supply </a>
+<a href="Final 11.html"> Elasticity </a>
+<a href="Final 13.html"> Equilibrium </a>
+<a href="Final 16.html"> Pamilihan </a>
+<a href="Final 6.html"> Price Control </a>
+
+</div>
+</div>
+</div>
+</div>
+
+<br> <br> <br>
+
+
+<h6> Listen to this while reading! </h6>
+<audio src="SlowDown.mp3" controls loop></audio>
+
+<body>
+<div class="one">
+<img src="41.png" title="Grapikong Representasyon ng Equilibrium">
+<img src="42.jpg" title="Equilibrium">
+<h1>Equilibrium</h1>
+<p>
+-kalagayan na walang sinuman sa mamimili at nagbibili ang gustong baguhin ang kasalukuyang sitwasyon sa pamilihan.
+-ipinapakita ng pagkakasaundo ng bumibili at nagbibili sa isang takdang presyo at dami ng produkto
+</p>
+
+<div>
+P↑ - D↓ - S↑ - Surplus<br>
+P↓ - D↑ - S↓ - Shortage<br><br>
+
+• QD = QS -> Equilibrium<br>
+• QD ≠ QS -> Disequilibrium<br>
+• QD < QS -> Surplus<br>
+• QD > QS -> Shortage
+</div>
+
+<h1>Mga Kaganapan sa Pagbabago sa Pamilihan</h1>
+<p>
+1-2. Paglipat ng supply curve pakanan/pakaliwa subalit walang pagbabago sa demand curve<br>
+3-4. Paglipat ng demand curve pakanan/pakaliwa subalit walang pagbabago sa supply curve<br>
+5-6. Parehas ang paglipat ng demand at supply curve pakanan/pakaliwa sa parehas na bahagdan
+</p>
+</div>
+
+</body>
+</html>

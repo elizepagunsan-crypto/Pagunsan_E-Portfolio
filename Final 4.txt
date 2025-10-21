@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head><title> My Family </title> <link rel="stylesheet" href="portfolio6.css" type="text/css"></head>
+<body>
+<div class="navbar">
+<p class="navbar-title"> <a href="Final 1.html">  My 2nd Quarter E-Portfolio &#9829; </a> </p>
+<div class="menu-container">
+<div class="dropdown">
+<button class="dropbtn"> My Personal Space </button>
+<div class="dropdown-content">
+<a href="Final 2.html"> Myself </a>
+<a href="Final 3.html"> My Friends </a>
+<a href="Final 4.html"> My Family </a>
+</div>
+</div>
+
+<div class="dropdown">
+<button class="dropbtn"> Browser Outputs </button>
+<div class="dropdown-content">
+<a href="Final 7.html"> Events </a>
+<a href="Final 9.html"> Lesson Outputs </a>
+</div>
+</div>
+
+<div class="dropdown">
+<button class="dropbtn"> AP MIKROEKONOMIKS </button>
+<div class="dropdown-content">
+<a href="Final 8.html"> Demand </a>
+<a href="Final 10.html"> Supply </a>
+<a href="Final 11.html"> Elasticity </a>
+<a href="Final 13.html"> Equilibrium </a>
+<a href="Final 16.html"> Pamilihan </a>
+<a href="Final 6.html"> Price Control </a>
+</div>
+</div>
+</div>
+</div>
+
+
+<h2> &#9958; MY FAMILY &#9958; </h2>
+
+<br> <br> <br>
+
+<h6> Listen to this while reading! </h6>
+<audio src="SlowDown.mp3" controls loop></audio>
+
+<div class="image-text1">
+<img src="fa12.jpg" alt="My Family" class="side-photo">
+<div class="text-box1">
+<p>
+Having a huge family definitely has its cons and pros, but I would say more pros. I get to share my thoughts and feelings to my titas and titos, get advice from my lolos and lolas, and have fun with my cousins. Being the only niece definitely sucks, but, atleast I'm not alone.
+</p>
+</div>
+</div>
+
+<div class="image-text">
+<img src="fa5.jpg" alt="Mama <3" class="side-photo">
+<div class="text-box">
+<p>
+My number 1 supporter and first friend, I'm glad to have my mother in life. She always helps me whenever I can, especially in Math-related school works, or whenever I need help in general. She takes care of me and my health, physically and mentally, making sure I can still stand.
+</p>
+</div>
+</div>
+
+<div class="image-text1">
+<img src="fa15.jpg" alt="Dada :))" class="side-photo">
+<div class="text-box1">
+<p>
+My ever so wise and hard-working Dad, I'm glad to have him as my dad because he always reminds me to never give up. Whenever something gets difficult, he tells me to breathe and think, so I probably would be lost without him. 
+</p>
+</div>
+</div>
+
+<div class="image-text">
+<img src="fa14.jpg" alt="Enzo ^^" class="side-photo">
+<div class="text-box">
+<p>
+With a year gap, my brother may be small, but he has a big heart. He's my grandest cheerleader, and even though he is stubborn at times, I do love him. 
+</p>
+</div>
+</div>
+
+<div class="image-text1">
+<img src="fa16.jpg" alt="Bowa <33" class="side-photo">
+<div class="text-box1">
+<p>
+My grandmother, or whom I call "Bowa" always supports me and my passions or hobbies. Always pushing me to my limits and comfort zone, testing me to try out new things. And even though it's overwhelming at times, I know she just wants the best for me.
+</p>
+</div>
+</div>
+
+<div class="image-text">
+<img src="fa10.jpg" alt="Ate Jessa <33" class="side-photo">
+<div class="text-box">
+<p>
+She's my yaya, but, I consider her as my ate. For me, she is family to me, whether by blood or not. She took care of me since I was little, and one of my funniest, shortest, but most loving family members.
+</p>
+</div>
+</div>
+
+<div class="image-text1">
+<img src="fa11.jpg" alt="Bowa Mary <33" class="side-photo">
+<div class="text-box1">
+<p>
+Another not by blood family member, but Bowa Mary has been in the family for around 12 years. Taking care of my Bowa, to my mom, and then to me and my brother. The family is so lucky to have her.
+</p>
+</div>
+</div>
+
+<div class="image-text">
+<img src="59.png" alt="Memorable experiences <3" class="side-photo">
+<div class="text-box">
+<p>
+For me, my most memorable experience with my family is when my baby brother was born. I may be young at that time, but I understood almost everything. I made a letter for Enzo, and when I got to hold him, I knew I had a new responsiblity. Another close experience to my heart is whenevr Christmas hits. The whole family gathers, eats, cooks, play games, and does karaoke. It's so fun, and I'm thankful for the Christmas spirit. And lastly, when I went to Singapore with my family. I got to experience new culture, amazing aquariums, extremely hot climate, but also the respectful and amazing community of the country of the Merlion.. 
+</p>
+</div>
+</div>
+
+<div class="image-text1">
+<video src="vid2.mp4" controls loop width="500" class="side-photo"> </video>
+<div class="text-box1">
+<p>
+A bonus video of me and my family when we travelled to Singapore ^^
+</p>
+</div>
+</div>
+
+</body>
+</html>

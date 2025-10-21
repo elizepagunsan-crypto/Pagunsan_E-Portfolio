@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head><title> Myself </title> <link rel="stylesheet" href="portfolio4.css" type="text/css"></head>
+<body>
+<div class="navbar">
+<p class="navbar-title"> <a href="Final 1.html">  My 2nd Quarter E-Portfolio &#9829; </a> </p>
+<div class="menu-container">
+<div class="dropdown">
+<button class="dropbtn"> My Personal Space </button>
+<div class="dropdown-content">
+<a href="Final 2.html"> Myself </a>
+<a href="Final 3.html"> My Friends </a>
+<a href="Final 4.html"> My Family </a>
+</div>
+</div>
+
+<div class="dropdown">
+<button class="dropbtn"> Browser Outputs </button>
+<div class="dropdown-content">
+<a href="Final 7.html"> Events </a>
+<a href="Final 9.html"> Lesson Outputs </a>
+</div>
+</div>
+
+<div class="dropdown">
+<button class="dropbtn"> AP MIKROEKONOMIKS </button>
+<div class="dropdown-content">
+<a href="Final 8.html"> Demand </a>
+<a href="Final 10.html"> Supply </a>
+<a href="Final 11.html"> Elasticity </a>
+<a href="Final 13.html"> Equilibrium </a>
+<a href="Final 16.html"> Pamilihan </a>
+<a href="Final 6.html"> Price Control </a>
+</div>
+</div>
+</div>
+</div>
+
+<h2> &#9958; GET TO KNOW ME &#9958; </h2>
+
+<br> <br> <br>
+
+<h6> My name is Lorraine Gilia A. Pagunsan, and you may call me Lorraine  ^^ Some people also call me Lori, which is also okay. I am 14 years old, born on April 21, 2011. Here are some facts about me ! </h6>
+
+<h6> Listen to this while reading! </h6>
+<audio src="Satisfied.mp3" controls loop></audio>
+
+<div class="image-text">
+<img src="50.png" alt="Another picture of me ^^" class="side-photo">
+<div class="text-box">
+<p>
+My favorite color is blue! I love shades of blue, any items such as clothes (Like here), merch, keychains, or etc. I also like accents of purple, especially since it pairs well with blue.
+</div>
+</div>
+
+<div class="image-text">
+<img src="m4.jpg" alt="My faovirte show ^^"class="side-photo">
+<div class="text-box">
+<p>
+My favorite sitcom ever is Brooklyn Nine, the mix of comedy yet deep topics like misognyny, racism, and homophobism. I learned so much about the police in the US and their issues, how they worked together in their own different ways to solve cases. I laughed at the iconic duos and their tight bonds, but also cried at their sincere friendships. I probably rewatched it atleast 5 times! <a href="https://www.youtube.com/channel/UCtRa82x1BwQdnpHf0Es4gcQ" target="_blank"> Watch some episodes here! </a>
+</p>
+</div>
+</div>
+
+<div class="image-text">
+<img src="52.png" alt="My favorite movies"class="side-photo">
+<div class="text-box">
+<p>
+A very diverse set of movies, yes. I love Legally Blonde due to the women empowerment, that if Elle Woods can balance being healthy and fit, while staying smart, and having true friends, then I can do it too. It's one of those movies that I watch when I need to be motivated and feel better. Knives out on the other hand, well, I love mystery in general. I love the adrenaline when solving crimes and mysteries, so knives out really makes me think, which I love! <a href="https://www.youtube.com/watch?v=vWOHwI_FgAo" target="_blank"> Trailer of Legally Blonde! </a> <a href="https://www.google.com/search?sca_esv=5555fc7198e53737&sxsrf=AE3TifNhWRUDeIcO-yxCYb6QMWXFvLnf3A:1760884862497&q=knives+out&source=lnms&fbs=AIIjpHz30rPMyW-0vSP0k1VTNmO_kCOARpjPjQRkBWH2HwUIz5XUSIJvSK0oms7XOxizDlmapc3S9dUP-_MTiIHH95WkmU3OJ0Y1hJaAJdBCt0P7bfmzdEjKwYZ8G0dxHpKwLwHJut2izkqnx-71uXW69hylej6QAGjJ6O1JcsupgHyTMZ02EfO2vfwdGvKGKfmqlO-ueRzdJCzdc14ugVaV_mtPsLmHywTk04lA1Cq0fr9ftiRbZAU&sa=X&ved=2ahUKEwirxOClv7CQAxU4dvUHHUqmKJwQ0pQJegQICRAB&biw=1280&bih=665&dpr=1.5#fpstate=ive&vld=cid:406e1c82,vid:qGqiHJTsRkQ,st:0" target="_blank"> Trailer of Knives Out </a>
+</p>
+</div>
+</div>
+
+<div class="image-text">
+<img src="m5.jpg" alt="My favorite animals" class="side-photo">
+<div class="text-box">
+<p>
+I absolutely love cats and ducks. I don't have a pet, but if I were to get one, I'd get a duck or a cat. They're so cute, and honestly, so silly!
+</p>
+</div>
+</div>
+
+<div class="image-text">
+<img src="m6.jpg" alt="My Favorite Foods" class="side-photo">
+<div class="text-box">
+<p>
+I love burgers, chicken nuggets, and fries, but most especially sinigang na baboy. I love it especially when it's cold outside, becaused the sour taste as a soup is such a delicious combination. Especially if it's home made, or made by my yaya, my number 1 food :))
+</p>
+</div>
+</div>
+
+<div class="image-text">
+<img src="me4.jpg" alt="My Favorite Musical" class="side-photo">
+<div class="text-box">
+<p>
+Based on the music here, I love Hamilton. I was introduced to it around 2 years ago, and I fell in love with it immediately. I loved the music, the actors and actresses on Broadway, and Lin Manuel Miranda's writing. I adore the diversity of the music genres and lyrics, then paired with historical lessons, makes me yearn to watch it in real life.
+</p>
+</div>
+</div>
+
+<h6> That's all on this part! Check out the others parts if you're interested ^^ </h6>
+
+</body>
+</html>

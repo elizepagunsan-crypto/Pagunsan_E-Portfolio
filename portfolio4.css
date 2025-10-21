@@ -1,0 +1,133 @@
+body {
+background-image: url("Background 4.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+background-attachment:fixed;
+background-position:center;
+margin: 0;
+padding: 0;
+padding-top:100px;
+}
+
+.navbar {
+background-color:#9C93B5;
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:15px 20px;
+box-shadow: 0px 2px 5px rgba (0,0,0,0.3);
+border: 2px solid white;
+position:fixed;
+top:0;
+width:100%;
+z-index:1000;
+}
+
+.navbar-title a {
+color:#F0E7E5;
+font-size:25px;
+font-family:Garamond;
+margin:0;
+
+}
+
+.dropbtn {
+background-color:#9C93B5; 
+color:#F0E7E5; 
+padding:16px; 
+font-size:20px; 
+border:none;
+font-family:Trebuchet MS;
+cursor:pointer;
+}
+
+.dropdown{
+display:inline-block; 
+position:relative;
+margin-right:10px;
+}
+
+.dropdown-content {
+display:none; 
+position:absolute;
+top:100%;
+left:0;
+background-color:#C6AFC6; 
+width: 160px;
+color:#9C93B5;
+z-index:10;
+}
+
+.dropdown-content a {
+background-color:#EEDBD8;
+color:#9C93B5;
+text-decoration:none;
+display:block; 
+font-size:20px;
+font-family:Trebuchet MS; 
+padding:10px;
+}
+
+.dropdown-content a:hover {background-color:#C8C8DC;color:#F0E7E5;}
+.dropdown:hover .dropdown-content {display:block;}
+.dropdown:hover .dropbtn {background-color:#E5E5F2;}
+
+
+h2 {
+background-color:#9C93B5; 
+color:#F0E7E5; 
+text-align:center;
+font-family:Garamond;
+font-size:30px;
+border: 3px solid white;
+margin:0;
+padding:0;
+}
+
+h6 {
+background-color:#9C93B5; 
+color:#F0E7E5; 
+text-align:center;
+font-family:Trebuchet MS;
+font-size:30px;
+border: 3px solid white;
+margin:0;
+padding:0;
+font-size:20px;
+}
+
+.image-text {
+  display: flex;            
+  align-items: center;         
+  justify-content: center;   
+  gap: 30px;                   
+  margin: 50px auto;           
+  max-width: 1000px; 
+  background-color:#C6AFC6; 
+ color:#F0E7E5; 
+border: 4px double white;
+
+}
+
+.side-photo {
+  width: 450px;               
+  height: auto;
+  border-radius: 10px;
+}
+
+.image-text p:hover {
+text-shadow: 0 0 10px #957DAD, 0 0 20px #957DAD, 0 0 30px #957DAD;
+transition: text-shadow 0.3s ease;
+}
+
+.text-box {
+max-width: 500px;            
+color: #F8F8FF;
+background-color:F0E7E5;
+font-family: Garamond;
+font-size: 30px;
+line-height: 1.6;
+text-align: justify;
+}
+
+
